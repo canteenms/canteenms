@@ -11,7 +11,7 @@
 } */
 body
 {
-	background-color: #000000;
+	background-color: #fff;
 }
 .navbar
 {
@@ -22,7 +22,7 @@ body
 .navvv
 {
 	font-family: 'Righteous', cursive;
-	font-size: 15px;
+	font-size: 25px;
 }
 .bg-dark
 {
@@ -105,9 +105,46 @@ body
 .footer
 {
 	background-color: cadetblue;
-
-.abt
+}
+.h2abt
 {
-	font-family: 'Lobster', cursive;
+	font-family: 'Anton', sans-serif;
+	font-size: 48px;
+	text-transform: uppercase;
 	 
+}
+#abt1
+{
+	background-image: linear-gradient(#181174, #731397);
+	color: white;
+	padding: 30px;
+	margin: 2px;
+	border-radius: 4px;
+}
+.cust p
+{
+	text-align: justify;
+}
+
+.foot
+{
+	font-family: 'Righteous', cursive;
+	background-image: linear-gradient(#731397, #181174);
+	margin-top: 7.1%;
+	border-radius: 4px;
+	padding: 40px;
+	margin-left: 0.1%;
+	margin-right: 0.1%;
+}
+
+.foot a
+{
+	color: #FFFFFF;
+}
+
+.mypad10
+{
+	
+	margin-top: 5%;
+	margin-bottom: 2%;
 }
